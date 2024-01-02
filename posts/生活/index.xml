@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>🏖️生活 on Web of Justice</title>
+    <link>https://justicepan.github.io/posts/%E7%94%9F%E6%B4%BB.html</link>
+    <description>Recent content in 🏖️生活 on Web of Justice</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 02 Jan 2024 21:02:04 +0800</lastBuildDate><atom:link href="https://justicepan.github.io/posts/%E7%94%9F%E6%B4%BB/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2024的一点点计划</title>
+      <link>https://justicepan.github.io/posts/%E7%94%9F%E6%B4%BB/no.32024.html</link>
+      <pubDate>Tue, 02 Jan 2024 21:02:04 +0800</pubDate>
+      
+      <guid>https://justicepan.github.io/posts/%E7%94%9F%E6%B4%BB/no.32024.html</guid>
+      <description>浅浅制定一下2024的计划吧嘿嘿
+1.整体目标 Life is fantastic, and Always Live to Life.
+2.计划（乱炖版 ①保持好奇心、探索欲
+②让我尝一尝甜甜的恋爱吧aaaaaaaa
+③基本完成毕业季&amp;quot;入海&amp;quot;的视频制作
+④拿到知名制造业外企的暑期实习offer
+⑤如果决定就业，拿到理想的offer
+如果考研，希望全力准备
+⑥想不出了 能完成前5个已经很满足了（躺平摆烂</description>
+    </item>
+    
+    <item>
+      <title>好喜欢考试月</title>
+      <link>https://justicepan.github.io/posts/%E7%94%9F%E6%B4%BB/no.2%E8%80%83%E8%AF%95%E6%9C%88.html</link>
+      <pubDate>Tue, 12 Dec 2023 21:32:04 +0800</pubDate>
+      
+      <guid>https://justicepan.github.io/posts/%E7%94%9F%E6%B4%BB/no.2%E8%80%83%E8%AF%95%E6%9C%88.html</guid>
+      <description>1.考试月 这学期的复习开始的相对比较早，大二下纯纯考试周了。这学期从十一月初就开始了，主要是专业课不知道咋复习，所以战线拉的比较长，不过相对来说复习的时候松弛多了。
+2.好喜欢考试月 由于我是j人本人，所以按着复习计划走的感觉挺不错的。再加上考试月我会主动把social的频率降低，整个人的能量都挺不错。从0到0.6掌握知识点的感觉也是so cool。
+3.分享一些照片 这几天天气不是很好，但是也随手用手机拍了几张，没有发pyq，贴一张最喜欢的吧。 </description>
+    </item>
+    
+    <item>
+      <title>建站第一篇！</title>
+      <link>https://justicepan.github.io/posts/%E7%94%9F%E6%B4%BB/no.1-%E5%BB%BA%E7%AB%99%E7%AC%AC%E4%B8%80%E7%AF%87.html</link>
+      <pubDate>Mon, 04 Dec 2023 14:45:39 +0800</pubDate>
+      
+      <guid>https://justicepan.github.io/posts/%E7%94%9F%E6%B4%BB/no.1-%E5%BB%BA%E7%AB%99%E7%AC%AC%E4%B8%80%E7%AF%87.html</guid>
+      <description>1.终于！拥有了自己的网站 经过一个多月的学习和打磨，就在刚刚，我的网站终于达到了心目中的及格水平。
+2.建站初衷 建立个人网站其实是今年年初的一个flag，这个想法大概是2022年中就有了。
+十一月头回看年初立的各种flag，许多受限于选择和外界环境已经无法完成，所以就选择了一个相对来说我有绝对控制权的flag进行消灭。
+其实初衷就是show something哈哈哈，再加上为简历加点分（maybe）。
+现在觉得当作另一个发疯的社交平台也挺好的，记录记录，满足一下自己的分享欲吧。
+3.建站心路历程 其实23年5月是准备暑期完成建站，于是从html、css开始学，三分钟热度吧，学到一半就动力耗尽了。
+后来暑期尝试了一些非零基础建站网页，太过复杂加上当时心境浮躁遂放弃。
+十一月头决定一鼓作气，一开始是准备买域名，租服务器，备案做博客，域名已经买好www.justcepan.fun（没有连服务器所以访问不了）哈哈哈哈，但是部署略微复杂且维护成本较高。忽然看到hugo+GitHub比较方便，于是转向这个搭建方式。
+虽然教程很容易，但是实际操作遇到许多阻碍，从一窍不通到基本了解，我也十分享受这个学习的过程。
+终于，在一个个多月的吃一堑吃一堑吃一堑后，网站基本上成了我心目中的初版样子。
+4.日后安排 目前我把文章分为了生活、书和电影、冷知识（重要事件记录）三个部分。
+生活可能主要分享一些小杂碎，旅行啊美食啊有趣的事情啊这些，便于以后翻阅。
+书和电影会写一些心得体会吧，在其他社交平台不太好发的东西可能就在这里发了。
+历史事件这个，因为网站依托的是GitHub，不会受国内审查，相对来说言论比较自由（当然我不是什么50万哈），所以就记录记录大事件吧。
+我应该会在12.31公开网站，提前祝你新年快乐！2024天天开心！
+Life is fantastic, and Always Live to Life.
+Justice PAN,15:58 2023.12.4</description>
+    </item>
+    
+  </channel>
+</rss>
